@@ -28,13 +28,14 @@ This web portfolio was built using a stack of cutting-edge technologies, includi
 - **JavaScript**: For client-side interactivity and functionality.
 - **Tailwind CSS**: For efficient and responsive styling.
 - **Next.js**: A powerful React framework for building server-rendered web applications.
+- **Git**: For code versioning.
 
 ## Getting Started
 
-To explore my portfolio and the projects I've worked on, simply visit the [Cashn Bank Portfolio](#) website.
+To explore my portfolio and the projects I've worked on, simply visit the [Cashn Bank Portfolio](cashn.vercel.app) website.
 
 ## Contact Me
 
-If you're interested in collaborating or discussing potential opportunities, please feel free to reach out to me via email at [your@email.com](mailto:your@email.com).
+If you're interested in collaborating or discussing potential opportunities, please feel free to reach out to me via email at [marcogoes.dev@gmail.com](mailto:marcosgoes.dev@mgmail.com).
 
 Thank you for visiting my portfolio, and I look forward to connecting with you soon!
