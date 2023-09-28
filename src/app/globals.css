@@ -11,6 +11,7 @@
 html {
   scroll-behavior: smooth;
   font-size: 62.5%;
+  overflow-x: hidden;
 }
 
 body {
@@ -18,6 +19,20 @@ body {
   height: 100vh;
 }
 
-::-webkit-scrollbar  {
-  width: 0;
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: black;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: black;    /* color of the scroll thumb */
+  border-radius: 5px;       /* roundness of the scroll thumb */
+  border: 2px solid white;  /* creates padding around scroll thumb */
+}
+
+::-webkit-scrollbar-thumb:hover {
+  border: 2px solid #FFD600;
 }
