@@ -32,7 +32,11 @@ This web portfolio was built using a stack of cutting-edge technologies, includi
 
 ## Getting Started
 
+<<<<<<< HEAD
 To explore my portfolio and the projects I've worked on, simply visit the [Cashn Bank Portfolio](cashn.vercel.app) website.
+=======
+To explore my portfolio and the projects I've worked on, simply visit the [Cashn Bank](https://cashn.vercel.app/) website.
+>>>>>>> developing
 
 ## Contact Me
 

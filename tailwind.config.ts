@@ -11,8 +11,13 @@ const config: Config = {
       backgroundImage: {},
       colors: {
         'yellow': '#FFD600',
-        
+
       },
+      screens: {
+        sm: '481px',
+        md: '769px',
+        lg: '977px',
+        xl: '1441px',      }
     },
   },
   plugins: [],
