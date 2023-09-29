@@ -33,7 +33,7 @@ export default function Home() {
         </div>
       </section>
       <section className="bg-[url('/bgImg/handsonsmartphone.png')] h-screen w-screen bg-center bg-cover bg-no-repeat lg:flex lg:flex-col justify-center pt-20">
-        <div className="max-w-[80%] mx-auto lg:flex gap-x-96 text-white font-semibold text-3xl lg:text-4xl ">
+        <div className="max-w-[80%] mx-auto lg:flex lg:gap-x-96 text-white font-semibold text-xl lg:text-4xl ">
           <div className="flex flex-col items-center justify-center gap-y-10">
             <Image width={586} height={325} alt="bank-image" src="/bgImg/digitalaccountsmartphone.png" />
             <p className="flex flex-col items-center">Experience the future of banking with our cutting-edge digital account. Seamlessly manage your finances, make transactions, and access exclusive perks, all from the palm of your hand. Join Cashn bank today for a smarter, hassle-free banking experience</p>
